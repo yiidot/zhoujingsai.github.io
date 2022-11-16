@@ -35,7 +35,7 @@ header {
   margin-right: -6px;
 }
 .header-title {
-  font-size: 20px;
+  font-size: 19px;
 }
 .header-shensu {
   width: 90px;
@@ -76,7 +76,7 @@ header {
 .list-item-header {
   display: flex;
   justify-content: space-between;
-  font-size: 20px;
+  font-size: 19px;
   font-weight: 580;
   line-height: 32px;
 }
