@@ -8,11 +8,11 @@ body {
 }
 
 a {
-  color: #4f94fb;
+  color: #4f89fb;
 }
 
 .iconfont {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -29,20 +29,22 @@ header {
 .header-back {
   display: flex;
   align-items: center;
+  width: 90px;
 }
 .header-icon {
   margin-right: -6px;
 }
 .header-title {
-  font-size: 20px;
+  font-size: 18px;
 }
 .header-shensu {
+  width: 90px;
   padding-right: 16px;
+  text-align: right;
 }
 
 .total {
   padding: 20px;
-  font-size: 18px;
   background: #fff;
 }
 .total-item {
@@ -74,7 +76,8 @@ header {
 .list-item-header {
   display: flex;
   justify-content: space-between;
-  font-size: 20px;
+  padding-right: 34px;
+  font-size: 18px;
   font-weight: 550;
   line-height: 32px;
 }
@@ -89,5 +92,4 @@ header {
   top: 27px;
   right: 0;
   color: #d9dde4;
-  font-size: 18px;
 }
