@@ -2,7 +2,7 @@
   "name": "PWA示例",
   "short_name": "PWA示例",
   "start_url": "/tax",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
