@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: PingFangSC-Regular, sans-serif;
+  color: #444444;
+  background: #f3f5f7;
+}
+
+a {
+  color: #4f94fb;
+}
+
+.iconfont {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 14px;
+  padding: 12px 20px 12px 20px;
+  font-weight: 550;
+  background: #fff;
+  box-shadow: 1px 1px 1px #dddddd;
+}
+.header-back {
+  display: flex;
+  align-items: center;
+}
+.header-icon {
+  margin-right: -6px;
+}
+.header-title {
+  font-size: 20px;
+}
+.header-shensu {
+  padding-right: 16px;
+}
+
+.total {
+  padding: 20px;
+  font-size: 18px;
+  background: #fff;
+}
+.total-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+}
+.total-item + .total-item {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #e7e7e7;
+}
+.total-icon {
+  margin: 0 6px;
+  font-weight: 500;
+}
+
+.list {
+  height: calc(100vh - 240px);
+  padding-top: 14px;
+  overflow: auto;
+}
+.list-item {
+  margin-bottom: 14px;
+  padding: 12px 20px 24px 20px;
+  background: #fff;
+}
+.list-item-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: 550;
+  line-height: 32px;
+}
+.list-item-body {
+  position: relative;
+  color: #909296;
+  font-weight: 500;
+  line-height: 30px;
+}
+.list-item-body .icon-qianjin {
+  position: absolute;
+  top: 27px;
+  right: 0;
+  color: #d9dde4;
+  font-size: 18px;
+}
