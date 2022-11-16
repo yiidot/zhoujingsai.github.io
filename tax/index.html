@@ -12,7 +12,7 @@
     <style>
       body {
         margin: 0;
-        font-size: 17px;
+        font-size: 16px;
         font-weight: 400;
         font-family: PingFangSC-Regular, sans-serif;
         color: #444444;
@@ -38,8 +38,12 @@
         background: #fff;
         box-shadow: 1px 1px 1px #dddddd;
       }
+      .header-back {
+        display: flex;
+        align-items: center;
+      }
       .header-icon {
-        margin-right: -2px;
+        margin-right: -4px;
       }
       .header-title {
         font-size: 20px;
@@ -48,6 +52,7 @@
       .total {
         margin-bottom: 14px;
         padding: 20px;
+        font-size: 18px;
         background: #fff;
       }
       .total-item {
@@ -80,7 +85,7 @@
       }
       .list-item-body {
         position: relative;
-        color: #a1a4a9;
+        color: #909296;
         font-weight: 500;
         line-height: 30px;
       }
@@ -93,7 +98,10 @@
   </head>
   <body>
     <header>
-      <a><span class="header-icon iconfont icon-fanhui"></span>返回</a>
+      <a class="header-back">
+        <span class="header-icon iconfont icon-fanhui"></span>
+        返回
+      </a>
       <div class="header-title">收入纳税明细查询</div>
       <a>批量申诉</a>
     </header>
