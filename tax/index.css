@@ -60,7 +60,6 @@ header {
 }
 .total-icon {
   margin: 0 6px;
-  line-height: 16px;
   font-weight: 550;
 }
 
@@ -77,15 +76,15 @@ header {
 .list-item-header {
   display: flex;
   justify-content: space-between;
-  padding-right: 30px;
+  padding-right: 24px;
   font-size: 18px;
   font-weight: 580;
   line-height: 32px;
 }
 .list-item-body {
   position: relative;
-  color: #909296;
-  font-weight: 520;
+  color: #878b93;
+  font-weight: 550;
   line-height: 30px;
 }
 .list-item-body .icon-qianjin {
