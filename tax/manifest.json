@@ -7,7 +7,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/tax/icon.png",
+      "src": "/tax/logo.png",
       "type": "image/png",
       "sizes": "128x128"
     }
