@@ -76,12 +76,12 @@ header {
 .list-item-header {
   display: flex;
   justify-content: space-between;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 580;
   line-height: 32px;
 }
 .list-item-header div + div {
-  padding-right: 30px;
+  padding-right: 32px;
 }
 .list-item-body {
   position: relative;
