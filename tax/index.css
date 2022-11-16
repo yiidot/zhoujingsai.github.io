@@ -77,8 +77,9 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  color: #333333;
   font-size: 19px;
-  font-weight: 600;
+  font-weight: 550;
   line-height: 32px;
 }
 .list-item-header div + div {
@@ -87,7 +88,7 @@ header {
 }
 .list-item-body {
   position: relative;
-  color: #878b93;
+  color: #838994;
   font-weight: 550;
   line-height: 30px;
 }
