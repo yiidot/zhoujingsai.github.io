@@ -35,7 +35,7 @@ header {
   margin-right: -6px;
 }
 .header-title {
-  font-size: 19px;
+  font-size: 18px;
 }
 .header-shensu {
   width: 90px;
@@ -78,13 +78,12 @@ header {
   justify-content: space-between;
   align-items: center;
   color: #333333;
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 550;
   line-height: 32px;
 }
 .list-item-header div + div {
   padding-right: 32px;
-  font-size: 18px;
 }
 .list-item-body {
   position: relative;
