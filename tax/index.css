@@ -81,7 +81,7 @@ header {
   line-height: 32px;
 }
 .list-item-header div + div {
-  padding-right: 24px;
+  padding-right: 30px;
 }
 .list-item-body {
   position: relative;
