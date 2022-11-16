@@ -41,6 +41,7 @@ header {
   width: 90px;
   padding-right: 14px;
   text-align: right;
+  box-sizing: border-box;
 }
 
 .total {
