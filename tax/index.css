@@ -79,7 +79,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #333333;
+  color: #404040;
   font-size: 18px;
   font-weight: 550;
   line-height: 32px;
@@ -89,7 +89,7 @@ header {
 }
 .list-item-body {
   position: relative;
-  color: #838994;
+  color: #a4a3ab;
   font-weight: 550;
   line-height: 30px;
 }
